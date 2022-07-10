@@ -2992,7 +2992,7 @@
   (symbol (lib_id "Device:D_Small") (at 215.9 102.87 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 08580585-e400-4553-bc2f-d993d1a3a4d6)
-    (property "Reference" "D25" (id 0) (at 218.44 101.5999 90)
+    (property "Reference" "D24" (id 0) (at 218.44 101.5999 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 218.44 104.1399 90)
@@ -3116,7 +3116,7 @@
   (symbol (lib_id "Device:D_Small") (at 243.84 132.08 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 12e56a24-69c8-4b47-9c72-2f3f5f8d0f86)
-    (property "Reference" "D34" (id 0) (at 246.38 130.8099 90)
+    (property "Reference" "D33" (id 0) (at 246.38 130.8099 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 246.38 133.3499 90)
@@ -3135,7 +3135,7 @@
   (symbol (lib_id "Device:D_Small") (at 187.96 102.87 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1404b3e8-a2b4-4707-a4c5-1b53e8d30619)
-    (property "Reference" "D24" (id 0) (at 190.5 101.5999 90)
+    (property "Reference" "D23" (id 0) (at 190.5 101.5999 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 190.5 104.1399 90)
@@ -3154,7 +3154,7 @@
   (symbol (lib_id "Device:D_Small") (at 215.9 161.29 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 15279edd-50bb-4125-a4c6-17b012265d83)
-    (property "Reference" "D41" (id 0) (at 218.44 160.0199 90)
+    (property "Reference" "D40" (id 0) (at 218.44 160.0199 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 218.44 162.5599 90)
@@ -3260,7 +3260,7 @@
   (symbol (lib_id "Device:D_Small") (at 49.53 102.87 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1b9763b4-103d-4ee0-a20f-45dccd19a9a2)
-    (property "Reference" "D19" (id 0) (at 52.07 101.5999 90)
+    (property "Reference" "D18" (id 0) (at 52.07 101.5999 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 52.07 104.1399 90)
@@ -3390,7 +3390,7 @@
   (symbol (lib_id "Device:D_Small") (at 271.78 132.08 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 21a213c3-c14a-4697-be38-6d8865181fc1)
-    (property "Reference" "D35" (id 0) (at 274.32 130.8099 90)
+    (property "Reference" "D34" (id 0) (at 274.32 130.8099 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 274.32 133.3499 90)
@@ -3425,7 +3425,7 @@
   (symbol (lib_id "Device:D_Small") (at 160.02 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 232d5565-a465-417c-a58a-a80eb46cb793)
-    (property "Reference" "D14" (id 0) (at 162.56 72.3899 90)
+    (property "Reference" "D13" (id 0) (at 162.56 72.3899 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 162.56 74.9299 90)
@@ -3654,7 +3654,7 @@
   (symbol (lib_id "Device:D_Small") (at 288.29 44.45 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 329d276d-9089-4aa9-8efb-c7d377f3d1b5)
-    (property "Reference" "D9" (id 0) (at 290.83 43.1799 90)
+    (property "Reference" "D0" (id 0) (at 290.83 43.1799 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 290.83 45.7199 90)
@@ -3755,7 +3755,7 @@
   (symbol (lib_id "Device:D_Small") (at 187.96 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 361e5f05-1cc6-4925-b259-51befb82b3f7)
-    (property "Reference" "D15" (id 0) (at 190.5 72.3899 90)
+    (property "Reference" "D14" (id 0) (at 190.5 72.3899 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 190.5 74.9299 90)
@@ -3861,7 +3861,7 @@
   (symbol (lib_id "Device:D_Small") (at 49.53 132.08 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3e69313c-ee09-4796-929b-3437e5a3902d)
-    (property "Reference" "D28" (id 0) (at 52.07 130.8099 90)
+    (property "Reference" "D27" (id 0) (at 52.07 130.8099 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 52.07 133.3499 90)
@@ -4023,7 +4023,7 @@
   (symbol (lib_id "Device:D_Small") (at 105.41 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 46772a3e-41a9-47ac-864a-6c5df13727fe)
-    (property "Reference" "D12" (id 0) (at 107.95 72.3899 90)
+    (property "Reference" "D11" (id 0) (at 107.95 72.3899 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 107.95 74.9299 90)
@@ -4058,7 +4058,7 @@
   (symbol (lib_id "Device:D_Small") (at 271.78 102.87 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4ac79676-025b-4636-8e26-a29fc1388c9b)
-    (property "Reference" "D27" (id 0) (at 274.32 101.5999 90)
+    (property "Reference" "D26" (id 0) (at 274.32 101.5999 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 274.32 104.1399 90)
@@ -4093,7 +4093,7 @@
   (symbol (lib_id "Device:D_Small") (at 243.84 102.87 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4be7e99e-2035-4c30-8278-3ced975147ca)
-    (property "Reference" "D26" (id 0) (at 246.38 101.5999 90)
+    (property "Reference" "D25" (id 0) (at 246.38 101.5999 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 246.38 104.1399 90)
@@ -4128,7 +4128,7 @@
   (symbol (lib_id "Device:D_Small") (at 105.41 102.87 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4d678ad2-e85a-4c88-bbc0-7da28df4f939)
-    (property "Reference" "D21" (id 0) (at 107.95 101.5999 90)
+    (property "Reference" "D20" (id 0) (at 107.95 101.5999 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 107.95 104.1399 90)
@@ -4677,7 +4677,7 @@
   (symbol (lib_id "Device:D_Small") (at 49.53 161.29 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6a983b78-1c94-4020-8f84-dada3696d85c)
-    (property "Reference" "D36" (id 0) (at 52.07 160.0199 90)
+    (property "Reference" "D35" (id 0) (at 52.07 160.0199 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 52.07 162.5599 90)
@@ -4986,7 +4986,7 @@
   (symbol (lib_id "Device:D_Small") (at 105.41 161.29 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7dfce003-97c3-4018-a764-fbcca332384c)
-    (property "Reference" "D37" (id 0) (at 107.95 160.0199 90)
+    (property "Reference" "D36" (id 0) (at 107.95 160.0199 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 107.95 162.5599 90)
@@ -5125,7 +5125,7 @@
   (symbol (lib_id "Device:D_Small") (at 271.78 161.29 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 845a4448-39e7-41b8-a31e-9b5a73814039)
-    (property "Reference" "D43" (id 0) (at 274.32 160.0199 90)
+    (property "Reference" "D42" (id 0) (at 274.32 160.0199 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 274.32 162.5599 90)
@@ -5195,7 +5195,7 @@
   (symbol (lib_id "Device:D_Small") (at 271.78 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8763f1f6-5b1e-4ffc-a4df-f8c9bec32867)
-    (property "Reference" "D18" (id 0) (at 274.32 72.3899 90)
+    (property "Reference" "D17" (id 0) (at 274.32 72.3899 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 274.32 74.9299 90)
@@ -5377,7 +5377,7 @@
   (symbol (lib_id "Device:D_Small") (at 243.84 161.29 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 92d48abf-7abf-41aa-881f-1c19567c9bb0)
-    (property "Reference" "D42" (id 0) (at 246.38 160.0199 90)
+    (property "Reference" "D41" (id 0) (at 246.38 160.0199 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 246.38 162.5599 90)
@@ -5450,7 +5450,7 @@
   (symbol (lib_id "Device:D_Small") (at 77.47 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 96d7409d-4b13-48ed-97d9-67acddfdd2dd)
-    (property "Reference" "D11" (id 0) (at 80.01 72.3899 90)
+    (property "Reference" "D10" (id 0) (at 80.01 72.3899 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 80.01 74.9299 90)
@@ -5605,7 +5605,7 @@
   (symbol (lib_id "Device:D_Small") (at 49.53 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9fc72869-abc2-4e49-91ee-8b911e736e5e)
-    (property "Reference" "D10" (id 0) (at 52.07 72.3899 90)
+    (property "Reference" "D9" (id 0) (at 52.07 72.3899 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 52.07 74.9299 90)
@@ -5643,7 +5643,7 @@
   (symbol (lib_id "Device:D_Small") (at 160.02 132.08 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a67c301b-bd45-403f-bef2-7392b640a5e6)
-    (property "Reference" "D32" (id 0) (at 162.56 130.8099 90)
+    (property "Reference" "D31" (id 0) (at 162.56 130.8099 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 162.56 133.3499 90)
@@ -5662,7 +5662,7 @@
   (symbol (lib_id "Device:D_Small") (at 243.84 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a77ca2a3-4dce-414f-9961-38d09cb28982)
-    (property "Reference" "D17" (id 0) (at 246.38 72.3899 90)
+    (property "Reference" "D16" (id 0) (at 246.38 72.3899 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 246.38 74.9299 90)
@@ -5716,7 +5716,7 @@
   (symbol (lib_id "Device:D_Small") (at 215.9 132.08 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a980114e-86c6-42c5-8f41-1864dd60da9c)
-    (property "Reference" "D33" (id 0) (at 218.44 130.8099 90)
+    (property "Reference" "D32" (id 0) (at 218.44 130.8099 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 218.44 133.3499 90)
@@ -5735,7 +5735,7 @@
   (symbol (lib_id "Device:D_Small") (at 132.08 132.08 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid aa225331-1e5e-4ffb-bfbc-0ae82be584b6)
-    (property "Reference" "D31" (id 0) (at 134.62 130.8099 90)
+    (property "Reference" "D30" (id 0) (at 134.62 130.8099 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 134.62 133.3499 90)
@@ -6106,7 +6106,7 @@
   (symbol (lib_id "Device:D_Small") (at 132.08 161.29 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c2ecc7ac-692a-421e-b22a-62b92dd43129)
-    (property "Reference" "D38" (id 0) (at 134.62 160.0199 90)
+    (property "Reference" "D37" (id 0) (at 134.62 160.0199 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 134.62 162.5599 90)
@@ -6182,7 +6182,7 @@
   (symbol (lib_id "Device:D_Small") (at 215.9 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c41f2b0f-2ed8-4e79-966b-1f547b3fa2ab)
-    (property "Reference" "D16" (id 0) (at 218.44 72.3899 90)
+    (property "Reference" "D15" (id 0) (at 218.44 72.3899 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 218.44 74.9299 90)
@@ -6234,7 +6234,7 @@
   (symbol (lib_id "Device:RotaryEncoder_Switch") (at 280.67 35.56 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c52470e9-449b-4928-9e08-29c6d0318c86)
-    (property "Reference" "SW1" (id 0) (at 280.67 25.4 0))
+    (property "Reference" "SW0" (id 0) (at 280.67 25.4 0))
     (property "Value" "RotaryEncoder_Switch" (id 1) (at 280.67 27.94 0))
     (property "Footprint" "Keebio-Parts:RotaryEncoder_EC11" (id 2) (at 276.86 31.496 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -6286,7 +6286,7 @@
   (symbol (lib_id "Device:D_Small") (at 77.47 132.08 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c7b2d9ba-92b7-4de9-83e7-1fa87ef080d5)
-    (property "Reference" "D29" (id 0) (at 80.01 130.8099 90)
+    (property "Reference" "D28" (id 0) (at 80.01 130.8099 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 80.01 133.3499 90)
@@ -6456,7 +6456,7 @@
   (symbol (lib_id "Device:D_Small") (at 105.41 132.08 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d6da5619-14ee-4ccf-9ee4-f193c2dc4942)
-    (property "Reference" "D30" (id 0) (at 107.95 130.8099 90)
+    (property "Reference" "D29" (id 0) (at 107.95 130.8099 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 107.95 133.3499 90)
@@ -6507,7 +6507,7 @@
   (symbol (lib_id "Device:D_Small") (at 77.47 102.87 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d8dc11ea-14c6-4f73-b1f1-638d54fd5c64)
-    (property "Reference" "D20" (id 0) (at 80.01 101.5999 90)
+    (property "Reference" "D19" (id 0) (at 80.01 101.5999 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 80.01 104.1399 90)
@@ -6720,7 +6720,7 @@
   (symbol (lib_id "Device:D_Small") (at 132.08 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e2af62ca-3b57-4e00-9cb3-53ab10bf70c9)
-    (property "Reference" "D13" (id 0) (at 134.62 72.3899 90)
+    (property "Reference" "D12" (id 0) (at 134.62 72.3899 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 134.62 74.9299 90)
@@ -7052,7 +7052,7 @@
   (symbol (lib_id "Device:D_Small") (at 160.02 102.87 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f26cef7a-8c60-4408-b4a0-c620c8876435)
-    (property "Reference" "D23" (id 0) (at 162.56 101.5999 90)
+    (property "Reference" "D22" (id 0) (at 162.56 101.5999 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 162.56 104.1399 90)
@@ -7087,7 +7087,7 @@
   (symbol (lib_id "Device:D_Small") (at 132.08 102.87 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f44ac9f2-5e05-446a-b3b5-5884ad1e66c0)
-    (property "Reference" "D22" (id 0) (at 134.62 101.5999 90)
+    (property "Reference" "D21" (id 0) (at 134.62 101.5999 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 134.62 104.1399 90)
@@ -7178,7 +7178,7 @@
   (symbol (lib_id "Device:D_Small") (at 187.96 161.29 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f78a4321-88af-42ed-abfc-2e7040d0b427)
-    (property "Reference" "D40" (id 0) (at 190.5 160.0199 90)
+    (property "Reference" "D39" (id 0) (at 190.5 160.0199 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 190.5 162.5599 90)
@@ -7235,7 +7235,7 @@
   (symbol (lib_id "Device:D_Small") (at 160.02 161.29 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid fb71ae84-5fb2-497e-ad4d-6b66f865132e)
-    (property "Reference" "D39" (id 0) (at 162.56 160.0199 90)
+    (property "Reference" "D38" (id 0) (at 162.56 160.0199 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 162.56 162.5599 90)
@@ -7789,6 +7789,9 @@
     (path "/5b814439-1c88-4387-85d2-6afe49a13b70"
       (reference "C142") (unit 1) (value "C_Small") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
+    (path "/329d276d-9089-4aa9-8efb-c7d377f3d1b5"
+      (reference "D0") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+    )
     (path "/a24b8790-fa91-4a87-b874-034971ca0f20"
       (reference "D1") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
@@ -7813,110 +7816,107 @@
     (path "/2f963c6e-7d91-4de0-bc6a-274df1392f24"
       (reference "D8") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/329d276d-9089-4aa9-8efb-c7d377f3d1b5"
+    (path "/9fc72869-abc2-4e49-91ee-8b911e736e5e"
       (reference "D9") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/9fc72869-abc2-4e49-91ee-8b911e736e5e"
+    (path "/96d7409d-4b13-48ed-97d9-67acddfdd2dd"
       (reference "D10") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/96d7409d-4b13-48ed-97d9-67acddfdd2dd"
+    (path "/46772a3e-41a9-47ac-864a-6c5df13727fe"
       (reference "D11") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/46772a3e-41a9-47ac-864a-6c5df13727fe"
+    (path "/e2af62ca-3b57-4e00-9cb3-53ab10bf70c9"
       (reference "D12") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/e2af62ca-3b57-4e00-9cb3-53ab10bf70c9"
+    (path "/232d5565-a465-417c-a58a-a80eb46cb793"
       (reference "D13") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/232d5565-a465-417c-a58a-a80eb46cb793"
+    (path "/361e5f05-1cc6-4925-b259-51befb82b3f7"
       (reference "D14") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/361e5f05-1cc6-4925-b259-51befb82b3f7"
+    (path "/c41f2b0f-2ed8-4e79-966b-1f547b3fa2ab"
       (reference "D15") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/c41f2b0f-2ed8-4e79-966b-1f547b3fa2ab"
+    (path "/a77ca2a3-4dce-414f-9961-38d09cb28982"
       (reference "D16") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/a77ca2a3-4dce-414f-9961-38d09cb28982"
+    (path "/8763f1f6-5b1e-4ffc-a4df-f8c9bec32867"
       (reference "D17") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/8763f1f6-5b1e-4ffc-a4df-f8c9bec32867"
+    (path "/1b9763b4-103d-4ee0-a20f-45dccd19a9a2"
       (reference "D18") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/1b9763b4-103d-4ee0-a20f-45dccd19a9a2"
+    (path "/d8dc11ea-14c6-4f73-b1f1-638d54fd5c64"
       (reference "D19") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/d8dc11ea-14c6-4f73-b1f1-638d54fd5c64"
+    (path "/4d678ad2-e85a-4c88-bbc0-7da28df4f939"
       (reference "D20") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/4d678ad2-e85a-4c88-bbc0-7da28df4f939"
+    (path "/f44ac9f2-5e05-446a-b3b5-5884ad1e66c0"
       (reference "D21") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/f44ac9f2-5e05-446a-b3b5-5884ad1e66c0"
+    (path "/f26cef7a-8c60-4408-b4a0-c620c8876435"
       (reference "D22") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/f26cef7a-8c60-4408-b4a0-c620c8876435"
+    (path "/1404b3e8-a2b4-4707-a4c5-1b53e8d30619"
       (reference "D23") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/1404b3e8-a2b4-4707-a4c5-1b53e8d30619"
+    (path "/08580585-e400-4553-bc2f-d993d1a3a4d6"
       (reference "D24") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/08580585-e400-4553-bc2f-d993d1a3a4d6"
+    (path "/4be7e99e-2035-4c30-8278-3ced975147ca"
       (reference "D25") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/4be7e99e-2035-4c30-8278-3ced975147ca"
+    (path "/4ac79676-025b-4636-8e26-a29fc1388c9b"
       (reference "D26") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/4ac79676-025b-4636-8e26-a29fc1388c9b"
+    (path "/3e69313c-ee09-4796-929b-3437e5a3902d"
       (reference "D27") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/3e69313c-ee09-4796-929b-3437e5a3902d"
+    (path "/c7b2d9ba-92b7-4de9-83e7-1fa87ef080d5"
       (reference "D28") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/c7b2d9ba-92b7-4de9-83e7-1fa87ef080d5"
+    (path "/d6da5619-14ee-4ccf-9ee4-f193c2dc4942"
       (reference "D29") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/d6da5619-14ee-4ccf-9ee4-f193c2dc4942"
+    (path "/aa225331-1e5e-4ffb-bfbc-0ae82be584b6"
       (reference "D30") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/aa225331-1e5e-4ffb-bfbc-0ae82be584b6"
+    (path "/a67c301b-bd45-403f-bef2-7392b640a5e6"
       (reference "D31") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/a67c301b-bd45-403f-bef2-7392b640a5e6"
+    (path "/a980114e-86c6-42c5-8f41-1864dd60da9c"
       (reference "D32") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/a980114e-86c6-42c5-8f41-1864dd60da9c"
+    (path "/12e56a24-69c8-4b47-9c72-2f3f5f8d0f86"
       (reference "D33") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/12e56a24-69c8-4b47-9c72-2f3f5f8d0f86"
+    (path "/21a213c3-c14a-4697-be38-6d8865181fc1"
       (reference "D34") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/21a213c3-c14a-4697-be38-6d8865181fc1"
+    (path "/6a983b78-1c94-4020-8f84-dada3696d85c"
       (reference "D35") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/6a983b78-1c94-4020-8f84-dada3696d85c"
+    (path "/7dfce003-97c3-4018-a764-fbcca332384c"
       (reference "D36") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/7dfce003-97c3-4018-a764-fbcca332384c"
+    (path "/c2ecc7ac-692a-421e-b22a-62b92dd43129"
       (reference "D37") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/c2ecc7ac-692a-421e-b22a-62b92dd43129"
+    (path "/fb71ae84-5fb2-497e-ad4d-6b66f865132e"
       (reference "D38") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/fb71ae84-5fb2-497e-ad4d-6b66f865132e"
+    (path "/f78a4321-88af-42ed-abfc-2e7040d0b427"
       (reference "D39") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/f78a4321-88af-42ed-abfc-2e7040d0b427"
+    (path "/15279edd-50bb-4125-a4c6-17b012265d83"
       (reference "D40") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/15279edd-50bb-4125-a4c6-17b012265d83"
+    (path "/92d48abf-7abf-41aa-881f-1c19567c9bb0"
       (reference "D41") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/92d48abf-7abf-41aa-881f-1c19567c9bb0"
-      (reference "D42") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
-    )
     (path "/845a4448-39e7-41b8-a31e-9b5a73814039"
-      (reference "D43") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D42") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/c51e2056-1b9d-4644-a3e3-e5a705c26b10"
       (reference "D101") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
@@ -8174,7 +8174,7 @@
       (reference "MX42") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-Hotswap")
     )
     (path "/c52470e9-449b-4928-9e08-29c6d0318c86"
-      (reference "SW1") (unit 1) (value "RotaryEncoder_Switch") (footprint "Keebio-Parts:RotaryEncoder_EC11")
+      (reference "SW0") (unit 1) (value "RotaryEncoder_Switch") (footprint "Keebio-Parts:RotaryEncoder_EC11")
     )
   )
 )
