@@ -1108,7 +1108,6 @@
     )
   )
 
-
   (junction (at 236.22 62.23) (diameter 0) (color 0 0 0 0)
     (uuid 01605446-79e4-4125-bc4f-d1ca3328d985)
   )
@@ -4947,7 +4946,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 55604544-2b67-4b5c-bc42-fdfbb60d7ead)
     (property "Reference" "J1" (id 0) (at 384.81 15.24 0))
-    (property "Value" "10029449-001RLF" (id 1) (at 384.81 17.78 0))
+    (property "Value" "10029449-111RLF" (id 1) (at 384.81 17.78 0))
     (property "Footprint" "10029449-001RLF:AMPHENOL_10029449-001RLF" (id 2) (at 384.81 35.56 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
@@ -9084,7 +9083,7 @@
       (reference "D142") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
     )
     (path "/55604544-2b67-4b5c-bc42-fdfbb60d7ead"
-      (reference "J1") (unit 1) (value "10029449-001RLF") (footprint "10029449-001RLF:AMPHENOL_10029449-001RLF")
+      (reference "J1") (unit 1) (value "10029449-111RLF") (footprint "10029449-001RLF:AMPHENOL_10029449-001RLF")
     )
     (path "/b2538794-1fc7-407b-85ec-71f5ea4fc415"
       (reference "J2") (unit 1) (value "Conn_02x04_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical")
